@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ibnu_3083_tugas_THR/1.0.0": {
+        "runtime": {
+          "ibnu_3083_tugas_THR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ibnu_3083_tugas_THR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

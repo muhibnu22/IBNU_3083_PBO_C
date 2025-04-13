@@ -1,0 +1,15 @@
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\bin\Debug\net7.0\ibnu_3083_tugas_THR.exe
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\bin\Debug\net7.0\ibnu_3083_tugas_THR.deps.json
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\bin\Debug\net7.0\ibnu_3083_tugas_THR.runtimeconfig.json
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\bin\Debug\net7.0\ibnu_3083_tugas_THR.dll
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\bin\Debug\net7.0\ibnu_3083_tugas_THR.pdb
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\obj\Debug\net7.0\ibnu_3083_tugas_THR.csproj.AssemblyReference.cache
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\obj\Debug\net7.0\ibnu_3083_tugas_THR.GeneratedMSBuildEditorConfig.editorconfig
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\obj\Debug\net7.0\ibnu_3083_tugas_THR.AssemblyInfoInputs.cache
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\obj\Debug\net7.0\ibnu_3083_tugas_THR.AssemblyInfo.cs
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\obj\Debug\net7.0\ibnu_3083_tugas_THR.csproj.CoreCompileInputs.cache
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\obj\Debug\net7.0\ibnu_3083_tugas_THR.dll
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\obj\Debug\net7.0\refint\ibnu_3083_tugas_THR.dll
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\obj\Debug\net7.0\ibnu_3083_tugas_THR.pdb
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\obj\Debug\net7.0\ibnu_3083_tugas_THR.genruntimeconfig.cache
+C:\mata kuliah semester 3 , 5 & 6\PBO_THR\ibnu_3083_tugas_THR\ibnu_3083_tugas_THR\obj\Debug\net7.0\ref\ibnu_3083_tugas_THR.dll
